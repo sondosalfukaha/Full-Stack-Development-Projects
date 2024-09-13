@@ -16,7 +16,8 @@
 - **Frontend**: 
   - HTML5
   - CSS3
-  - JavaScript
+  - js
+  - Bootstrap
 - **Payment Gateway**: 
   - PayPal (for processing donations).
     
