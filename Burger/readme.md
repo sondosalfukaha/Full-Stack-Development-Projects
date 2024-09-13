@@ -1,4 +1,5 @@
-# Burger App
+# Burger App Dashboard
+
 ## Overview
 
 This repository contains the **Dashboard** for managing the **Burger App**, a web-based food ordering platform. The dashboard was developed to manage various operations for the Burger App, including order tracking, menu management, and user management. The dashboard was built following the guidelines outlined in the PRD (Product Requirements Document) and PDD (Product Design Document), ensuring the platform meets the business needs and user expectations.
