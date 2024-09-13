@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Clever Mind POB (Point of Business)** is a comprehensive system designed to streamline business operations, manage workflows, and enhance productivity. It is developed as part of a Training to showcase advanced business management capabilities through a user-friendly interface.
+**Clever Mind POB is a comprehensive system designed to streamline business operations, manage workflows, and enhance productivity. It is developed as part of a Training to showcase advanced business management capabilities through a user-friendly interface.
 
 ## Features
 
